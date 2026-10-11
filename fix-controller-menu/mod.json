@@ -1,0 +1,7 @@
+{
+  "id": "com.pablocomino.fix_controller_menu",
+  "name": "Selected Controller Menu Input",
+  "version": "1.0.0",
+  "author": "pablocomino",
+  "description": "Limit Dusklight menu gamepad input to the controller assigned to player one."
+}

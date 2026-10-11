@@ -1,0 +1,10 @@
+# CMake build directories and generated files
+build/
+build-linux/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.so
+*.dusk
