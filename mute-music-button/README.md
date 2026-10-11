@@ -1,10 +1,11 @@
 # Mute Music Button
 
 Press **F7** to mute music, then press it again to restore the previous music
-level. To change the key, open the mod's tab in Dusklight's **Mods** window,
-select **Change music mute key**, and press the new key. **Esc** cancels key
-capture. The selected key is saved in Dusklight's `config.json` through its
-ConfigService.
+level. To change the binding, open **Controller Settings**, select the desired
+port and device, then open **Custom Action Bindings** and choose **Mute Music**.
+Bind a keyboard key or a gamepad button using Dusklight's normal binding
+control. **Esc** clears a binding. Keyboard and gamepad bindings are stored
+separately in Dusklight's `config.json`.
 
 Sound effects and other volume settings are untouched. The mute is temporary
 and is cleared when the mod is disabled.
